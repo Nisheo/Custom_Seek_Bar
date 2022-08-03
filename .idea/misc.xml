@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.13009592326139088" />
+        <entry key="app/src/main/res/drawable/bg_custom_seekbar.xml" value="0.21" />
+        <entry key="app/src/main/res/drawable/bg_progress.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/bg_tick_mark.xml" value="0.217" />
+        <entry key="app/src/main/res/drawable/bg_tickmark.xml" value="0.1805" />
+        <entry key="app/src/main/res/drawable/new_progress.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/thumb.xml" value="0.232" />
+        <entry key="app/src/main/res/layout-v24/activity_main.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
